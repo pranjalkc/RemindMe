@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appBG">#FFC2C0</color>
+    <color name="altBG">#FF9D9A</color>
+    <color name="appFont">#201C1E</color>
+    <color name="colorPrimary">#E78BBD</color>
+    <color name="colorPrimaryDark">#FFC99A</color>
+    <color name="colorAccent">#FF9D9A</color>
+</resources>
